@@ -1,4 +1,4 @@
-### Hi there, I`m Uros👋
+### 🦧
 
 <!--
 **fbrg141/fbrg141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
